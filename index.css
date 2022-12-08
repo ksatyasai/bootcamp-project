@@ -1,0 +1,263 @@
+.div1{
+	  height:550px;
+	  background-color:#332c29;
+	  float:left;
+}
+.div2{
+	  height:550px;
+	  background-color:#88746c;
+	  float:right;
+}
+.main{
+	  float:left;
+}
+.div3{
+	  height:550px;
+	  background-color:#332c29;
+	  float:right;
+}
+.pic{
+	 position:absolute;
+	 height:400px;
+	 width:350px;
+	 margin-top:75px;
+	 margin-left:-170px;
+}
+.sub{
+     margin-left:200px;
+     color:white;
+     margin-top:50px;
+}
+.news{
+	  margin-left:135px;
+      color:white;
+}
+.input{
+	  margin-left:60px;
+	  margin-top:50px;
+      background-color:#332c29;
+      box-sizing:border-box;
+      border:none;
+      border-bottom:2px solid white;
+      width:290px;
+}
+.button{
+	  margin-left:20px;
+      color:black;
+      height:35px;
+      width:100px;
+      border-bottom-style:solid;
+      background-color:Dark Vanilla;
+}
+
+.location{
+	      color:white;
+	      float:left;
+	      margin-top:100px;
+	      margin-left:50px;
+	      text-align:right;
+	      }
+.follow{
+	    color:white;
+	    float:right;
+	    margin-top:100px;
+	    margin-right:180px;
+	    text-align:right;
+}
+.new{
+	display:inline-flex;
+	margin-top:70px;
+	margin-left:20px;
+	font-size:12px;
+}
+.loc{
+     font-size:20px;
+     font-family:monospace;
+     /*margin-right:10px;*/
+}
+.flo{
+     font-size:20px;
+     font-family:monospace;
+     margin-left:-10px;
+}
+.sym{
+	      color:black;
+	      background-color:white;
+	      height:25px;
+	      border-radius:1000px;
+	      width:25px;
+	      padding:5px;
+	      padding-right:-3px;
+	      margin-right:8px;
+}
+.freepik{
+	     margin-top:15px;
+}
+.footer{
+	   background-color:#5d4b44;
+	   height:100px;
+}
+.ul{
+    list-style-type:none;
+    display:inline-flex;
+    margin-top:30px;
+}
+a{ 
+  color:white;
+  text-decoration:none;
+  margin-left:40px;
+  font-size:13px;
+}
+.home{
+	  margin-left:250px;
+}
+.logo{
+	 font-family:cursive;
+	 color:silver;
+	 margin-left:350px;
+	 font-size:25px;
+}
+*{
+  box-sizing:border-box;
+}
+.row{
+	 margin-left:0px;
+}
+
+
+/************ last second css*************/
+.main1{
+	background:#332c29;
+	align-content: center;
+	height:300px;
+}
+.vr1{
+	padding: 30px 0px 50px 160px;
+	margin-left: 150px;
+	margin-top:40px;
+	float:left;
+}
+.vr2{
+	padding: 50px 10px 50px 50px;
+	margin-top:20px;
+	float:right;
+}
+#p1{
+	color:#a67f68;
+	font-size: 30px;
+	font-family: fantasy;
+
+}
+#p2{
+	color: #ebe8e8;
+	font-size:12px;
+}
+.main2{
+	background:#ede5d8;
+	height:520px;
+}
+.vr3{
+	background: #c29f8c;
+	margin-left:770px;
+	height:480px;
+	z-index:1;
+}
+#dog{
+	position: absolute;
+	z-index: 2;
+	width:490px;
+    height:300px;
+    margin-left:470px;
+    margin-top:35px;
+
+}
+.btn1{
+	 margin-top:10px;
+	 border:none;
+	 font-size:14px;
+}
+.btn2{
+	 margin-top:20px;
+	 color:white;
+	 font-size:13px;
+	 border:none;
+	 padding:5px;
+	 width:100px;
+	 background-color: #c29f8c;
+}
+.btn1{
+	  height:25px;
+	  width:85px;
+}
+.index3{
+	    background-color:white;
+	    z-index:3;
+	    height:260px;
+	    margin-top:-260px;
+	    margin-left:350px;
+	    position:absolute;
+	   font-size: 15px;
+	   padding:50px 30px 0px 30px;
+
+}
+.para{
+	  margin-top:60px;
+}
+.h1{
+ color: #c29f8c;
+}
+/****** latst third*******/
+.main3{
+	height:500px;
+	background:#ede5d8;
+}
+.vr4{
+	background: #c29f8c;
+	margin-left:-130px;
+	height:500px;
+	margin-left: 500px;
+
+}
+/*#dog1{
+	position: absolute;
+	z-index: 2;
+	width:420px;
+    height:300px;
+    margin-left:-470px	;
+    top: 50px;
+}*/
+.mid{
+	 position: absolute;
+	 z-index: 2;
+	width:460px;
+    height:300px;
+    margin-top:50px;
+     margin-left:320px	;
+}
+.index4{
+	 background-color:white;
+	 /*height:700px;*/
+	 width:380px;
+	    z-index:3;
+	    position:absolute;
+	    height:240px;
+	    padding:10px 20px 10px 20px;
+	    margin-top:-300px;
+	    margin-left:700px;
+	   font-size: 15px;
+	  
+}
+.head1{
+	color: #c29f8c;
+}
+.btn4{
+	 margin-top: 20px;
+	 background: #c29f8c;
+	 color: white;
+	 border:none;
+	 height:28px;
+	 width:100px;
+	 margin-top:10px;
+	 font-size:14px;
+	 font-family: monospace;
+}
